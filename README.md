@@ -1,0 +1,4 @@
+gitignore
+=========
+
+A sample gitignore
